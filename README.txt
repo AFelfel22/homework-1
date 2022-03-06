@@ -1,4 +1,4 @@
-We analyze US gun murder data collected by the FBI.
+We analyze US gun murders data collected by the FBI.
 
 downlaod-data.R - downloads csv file to data directory
 
